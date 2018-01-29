@@ -1,7 +1,7 @@
 # Political Partisanship: A Look at the Data
 
-The repo for an article I wrote on *Towards Data Science* in August
 **[Political Partisanship: A Look at the Data](https://towardsdatascience.com/political-partisanship-a-look-at-the-data-e71946199586)**
+is an article I wrote on *Towards Data Science* in August. 
 
 ![Party Unity](images/party_unity_best_fit.png)
 
