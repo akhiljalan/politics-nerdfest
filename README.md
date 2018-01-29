@@ -10,6 +10,6 @@ The Jupyter notebooks  ```Partisanship_Final.ipynb``` contain the finalized vers
 
 ## Dataset 
 
-Using [Brookings’ Vital Statistics on Congress](https://www.brookings.edu/multi-chapter-report/vital-statistics-on-congress/), I examined data from Congressional party vote unity and ideological score differences from 1953 to 2015. 
+Using [Brookings’ Vital Statistics on Congress](https://www.brookings.edu/multi-chapter-report/vital-statistics-on-congress/), I examined data from Congressional party vote unity and ideological score differences from 1953 to 2015. See files in ```data/```.
 
 
